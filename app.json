@@ -3,7 +3,7 @@
   "description": "Javascript WhatsApp bot made by Madumal",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["bot"],
-  "success_url": "/",
+  "success_url": "VjV2XQaK#VcpDb5Zs7XYH80h0yori3gvLPsqQp2NUwGm1wPNg_tw",
 
   "env": {
     "SESSION_ID": {
